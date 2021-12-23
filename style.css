@@ -76,8 +76,8 @@
 .number,
 .operator {
   border: 0;
-  width: 90px;
-  height: 90px;
+  width: 75px;
+  height: 75px;
   /* flex-basis: 40%; */
   border-radius: 50%;
   font-weight: bold;
